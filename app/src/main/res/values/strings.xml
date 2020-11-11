@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListView_Mikhailov_V</string>
+    <string name="arg"><b><i>Флаг Аргентины</i></b></string>;
+    <string name="bra"><b><i>Флаг Бразилии</i></b></string>;
+    <string name="chili"><b><i>Флаг Чили</i></b></string>;
+    <string name="kol"><b><i>Флаг Колумбии</i></b></string>;
+    <string name="uru"><b><i>Флаг Уругвая</i></b></string>;
+
+</resources>
